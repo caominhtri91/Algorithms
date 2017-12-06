@@ -1,3 +1,5 @@
+TIME COMPLEXITY: O(n2)
+
 BubbleSort(a[], n) // Array to be sorted // Array Size
   for i from n - 1; decreasing by 1 {
     for j from 0 to i {
